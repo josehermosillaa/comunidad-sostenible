@@ -1,0 +1,53 @@
+/* Inserta tu codigo aqui */
+
+/* Titulo o Header */
+/* *{
+    outline: 1px dotted red;
+} */
+
+*{
+    font-family: 'Times New Roman', Times, serif; 
+}
+.nav-item{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;   
+    color:lightgray;
+    font-size: 12pt;
+    
+}
+
+.bg2{
+    background-color: lightgray;
+}
+
+.bg-image{
+    background-image: url("../img/semilla.jpg");
+    height: 400px;
+	position:relative;
+	background-position: center ;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.bg-image2{
+    background-image: url("../img/metodo.JPG");
+    height: 400px;
+	position:relative;
+	background-position: center ;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.bg-image3{
+    background-image: url("../img/fondo.jpg");
+    height: 400px;
+	position:relative;
+	background-position: center ;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.redes li{
+    display: inline-block;
+    list-style: none;
+    margin:10px;
+}
