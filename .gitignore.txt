@@ -1,5 +1,0 @@
-packages/
-
-secret.js.txt
-
-log.txt
